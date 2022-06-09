@@ -1,0 +1,83 @@
+#image{
+    height:auto;
+    max-width: 100%;
+    display: block;
+    margin:auto auto 3vh auto;
+    width:50%;
+    box-shadow: 5px 5px 5px black;
+    border-radius: 1em;
+}
+
+h1, #cap, figcaption{
+    text-align: center;
+
+
+}
+
+.elon, #beg{
+    display:block;
+    margin:auto auto 3vh auto;
+    width:60vw;
+    color:#f8f8ff;
+}
+
+h3{
+   display: flex;
+   justify-content: center;
+   
+
+}
+
+
+
+#img-div{
+    border:solid 0.1rem navy;
+    padding:2vh 0 2vh 0;
+    background: linear-gradient(45deg,  rgb(247, 76, 76), rgb(130, 160, 247));
+    margin-top:4vh;
+    margin-bottom: 3vh;
+    box-shadow: 5px 5px 5px navy;
+    
+    
+    
+}
+
+figcaption{
+    font-size:1.2em;
+    
+}
+
+h1{
+    font-style: italic;
+    font-size:8vh;
+    font-weight:bold;
+    text-shadow: 1px 1px 2px navy;
+    color:rgb(35, 243, 243);
+
+}
+
+#cap{
+    font-size:1.3rem;
+    color:rgb(35, 243, 243);
+    text-shadow: 2px 2px 2px navy;
+   
+}
+
+body{
+    background: linear-gradient(45deg, rgb(255,0,0)5%, rgb(0,0,255) 30%, rgb(0, 255, 0)  100%);
+}
+
+a{
+    color:gold;
+ 
+}
+
+#early, #paypal, #tes{
+    color:black;
+    font-weight:bold;
+    font-size:2rem;
+    text-shadow: 1px 1px 1px  black;
+}
+
+
+
